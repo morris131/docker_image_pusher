@@ -1,4 +1,4 @@
-nginx
+#nginx
 #支持私库
 qdrant/qdrant
 #xhofe/alist:latest
